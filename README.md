@@ -1,5 +1,6 @@
 ## 游戏开发
-   [ Unity 3D 入门 ]( https://www.imooc.com/learn/313 )    <br/>
+   [ Unity 3D 入门 ]( https://www.imooc.com/course/list?c=unity3d )    <br/>
+   [ cocos2d-x 入门 ]( https://www.imooc.com/course/list?c=cocos2dx )    <br/>
    [ 第一次学习游戏开发 采用swift3.0 ]( https://github.com/pheromone/Flappy-Bird )    <br/>
 
  
