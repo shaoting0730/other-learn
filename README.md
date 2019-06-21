@@ -1,4 +1,3 @@
-# other-learn
 ## 游戏开发
    [ Unity 3D 入门 ]( https://www.imooc.com/learn/313 )    <br/>
  
