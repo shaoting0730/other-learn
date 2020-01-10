@@ -5,8 +5,13 @@
    [ Mac下cocos2d-x环境搭建 ]( https://pheromone.github.io/2019/06/23/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0/MAC%E4%B8%8B%E7%9A%84cocos2d-x%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/  )    <br/>
    [ Cocos Creator v2.0 用户手册 ]( http://docs.cocos.com/creator/manual/zh/ )    <br/>
 
-
-
+## python 
+   [ 关于 Python 的经典入门书籍有哪些？-知乎 ]( https://www.zhihu.com/question/19593179 )    <br/>
+   [ 哪里能找到 Python 视频教程地址？ ]( https://www.zhihu.com/question/19660572 )    <br/>
+   [ Python 基础教程-菜鸟教程 ]( https://www.runoob.com/python/python-tutorial.html )    <br/>
+   [ Python 3 教程-菜鸟教程 ]( https://www.runoob.com/python3/python3-tutorial.html )    <br/>
+   [ 《Python语言程序设计》 国家二级Python辅助教程-B站 ]( https://www.bilibili.com/video/av82064400/?redirectFrom=h5 )    <br/>
+   一堆教学 链接: https://pan.baidu.com/s/1NP4MFeP3v5AVNLIcwBOeyg 提取码: evq7
  
 ## 漫画学习:爱好
    [ 露西学画画 ]( https://www.lucydraw.com/manhua )    <br/>
