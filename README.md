@@ -12,6 +12,7 @@
    [ Python 3 教程-菜鸟教程 ]( https://www.runoob.com/python3/python3-tutorial.html )    <br/>
    [ 《Python语言程序设计》 国家二级Python辅助教程-B站 ]( https://www.bilibili.com/video/av82064400/?redirectFrom=h5 )    <br/>
    [ 【千锋教育】Python 从入门到入坟 900集-B站 ]( https://www.bilibili.com/video/av75052163 )    <br/>
+   [ 【黑马】Python教程_600集Python从入门到精通教程-B站 ]( https://www.bilibili.com/video/av14184325/?spm_id_from=333.788.videocard.0 )    <br/>
    一堆资料 链接: https://pan.baidu.com/s/156ZykerMhvHnlkwhZHLmEA 提取码: p47b 
  
 ## 漫画学习:爱好
