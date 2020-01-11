@@ -12,7 +12,7 @@
    [ Python 3 教程-菜鸟教程 ]( https://www.runoob.com/python3/python3-tutorial.html )    <br/>
    [ 《Python语言程序设计》 国家二级Python辅助教程-B站 ]( https://www.bilibili.com/video/av82064400/?redirectFrom=h5 )    <br/>
    [ 【千锋教育】Python 从入门到入坟 900集-B站 ]( https://www.bilibili.com/video/av75052163 )    <br/>
-   一堆教学 链接: https://pan.baidu.com/s/1NP4MFeP3v5AVNLIcwBOeyg 提取码: evq7
+   一堆资料 链接: https://pan.baidu.com/s/156ZykerMhvHnlkwhZHLmEA 提取码: p47b 
  
 ## 漫画学习:爱好
    [ 露西学画画 ]( https://www.lucydraw.com/manhua )    <br/>
