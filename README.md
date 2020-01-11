@@ -7,10 +7,11 @@
 
 ## python 
    [ 关于 Python 的经典入门书籍有哪些？-知乎 ]( https://www.zhihu.com/question/19593179 )    <br/>
-   [ 哪里能找到 Python 视频教程地址？ ]( https://www.zhihu.com/question/19660572 )    <br/>
+   [ 哪里能找到 Python 视频教程地址？-知乎· ]( https://www.zhihu.com/question/19660572 )    <br/>
    [ Python 基础教程-菜鸟教程 ]( https://www.runoob.com/python/python-tutorial.html )    <br/>
    [ Python 3 教程-菜鸟教程 ]( https://www.runoob.com/python3/python3-tutorial.html )    <br/>
    [ 《Python语言程序设计》 国家二级Python辅助教程-B站 ]( https://www.bilibili.com/video/av82064400/?redirectFrom=h5 )    <br/>
+   [ 【千锋教育】Python 从入门到入坟 900集-B站 ]( https://www.bilibili.com/video/av75052163 )    <br/>
    一堆教学 链接: https://pan.baidu.com/s/1NP4MFeP3v5AVNLIcwBOeyg 提取码: evq7
  
 ## 漫画学习:爱好
