@@ -6,6 +6,8 @@
    [ Cocos Creator v2.0 用户手册 ]( http://docs.cocos.com/creator/manual/zh/ )    <br/>
 
 ## python 
+
+   [ phthon学习记录 ]( https://github.com/pheromone/phthon_learn )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/phthon_learn.svg?style=social&label=Stars)](https://github.com/pheromone/phthon_learn)  <br/>
    [ 关于 Python 的经典入门书籍有哪些？-知乎 ]( https://www.zhihu.com/question/19593179 )    <br/>
    [ 哪里能找到 Python 视频教程地址？-知乎· ]( https://www.zhihu.com/question/19660572 )    <br/>
    [ Python 基础教程-菜鸟教程 ]( https://www.runoob.com/python/python-tutorial.html )    <br/>
