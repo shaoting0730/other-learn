@@ -18,8 +18,16 @@
    [ 【千锋教育】Python 从入门到入坟 900集-B站 ]( https://www.bilibili.com/video/av75052163 )    <br/>
    [ 【黑马】Python教程_600集Python从入门到精通教程-B站 ]( https://www.bilibili.com/video/av14184325/?spm_id_from=333.788.videocard.0 )    <br/>
    一堆资料 链接: https://pan.baidu.com/s/14lftjlVPK5W8D_feW6Ji4Q 提取码: k9wf 
+## 算法
+   [ 刷算法全靠套路，认准 labuladong 就够了！]( https://github.com/labuladong/fucking-algorithm )    <br/>
+   [ 算法模板 ]( https://github.com/greyireland/algorithm-pattern )    <br/>
+   [ 手写实现李航《统计学习方法》书中全部算法 ]( https://github.com/Dod-o/Statistical-Learning-Method_Code )    <br/>
+   [ 数据结构和算法必知必会的50个代码实现 ]( https://github.com/wangzheng0822/algo )    <br/>
+
+
  
 ## 漫画学习:爱好
    [ 露西学画画 ]( https://www.lucydraw.com/manhua )    <br/>
    [ 虎克网 ]( https://huke88.com/search/video?keyWorld=SAI&identify=1524450810&classification=0?sem=baidu&kw=100273 )    <br/>
    [ 宫崎骏 ]( https://www.bilibili.com/bangumi/play/ss26242 )    <br/>
+
