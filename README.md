@@ -7,7 +7,8 @@
    [ 可以使用flutter开发游戏吗？？？ ]( https://www.bugcatt.com/archives/4 )    <br/>
    [ flame库 ](    https://github.com/flame-engine/flame )    <br/>
    [ flame中文网 ](   https://www.flame-cn.com/ )    <br/>
-   [ flame框架练习：打苍蝇 ]( https://github.com/pheromone/langaw )  [![GitHub stars](https://github.com/pheromone/langaw.svg?style=social&label=Stars)](https://github.com/pheromone/langaw)  <br/>
+   [ flame框架练习：打苍蝇 ]( https://github.com/pheromone/langaw ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/langaw.svg?style=social&label=Stars)](https://github.com/pheromone/langaw)   <br/>
+   
 
 ## python 
    [ phthon学习记录 ]( https://github.com/pheromone/phthon_learn )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/phthon_learn.svg?style=social&label=Stars)](https://github.com/pheromone/phthon_learn)  <br/>
