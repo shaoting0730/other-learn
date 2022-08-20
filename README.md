@@ -29,8 +29,10 @@
    [ 手写实现李航《统计学习方法》书中全部算法 ]( https://github.com/Dod-o/Statistical-Learning-Method_Code )    <br/>
    [ 数据结构和算法必知必会的50个代码实现 ]( https://github.com/wangzheng0822/algo )    <br/>
 
+## rust
+   [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
 
- 
+
 ## 漫画学习:爱好
    [ 露西学画画 ]( https://www.lucydraw.com/manhua )    <br/>
    [ 虎克网 ]( https://huke88.com/search/video?keyWorld=SAI&identify=1524450810&classification=0?sem=baidu&kw=100273 )    <br/>
