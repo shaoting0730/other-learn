@@ -31,6 +31,8 @@
 
 ## rust
    [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
+   [ rust-by-practice ]( https://github.com/sunface/rust-by-practice )    <br/>
+
 
 
 ## 漫画学习:爱好
