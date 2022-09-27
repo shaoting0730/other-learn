@@ -30,7 +30,7 @@
    [ 数据结构和算法必知必会的50个代码实现 ]( https://github.com/wangzheng0822/algo )    <br/>
 
 ## rust
-   [ rust学习历程 ]( https://github.com/pheromone/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/langaw.svg?style=social&label=Stars)](https://github.com/pheromone/rust-learn)     <br/>
+   [ rust学习历程 ]( https://github.com/pheromone/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/rust-learn.svg?style=social&label=Stars)](https://github.com/pheromone/rust-learn)     <br/>
 
 
 
