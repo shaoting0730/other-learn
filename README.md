@@ -30,8 +30,7 @@
    [ 数据结构和算法必知必会的50个代码实现 ]( https://github.com/wangzheng0822/algo )    <br/>
 
 ## rust
-   [ rust-course ]( https://github.com/sunface/rust-course )    <br/>
-   [ rust-by-practice ]( https://github.com/sunface/rust-by-practice )    <br/>
+   [ rust学习历程 ]( https://github.com/pheromone/rust-learn )    <br/>
 
 
 
