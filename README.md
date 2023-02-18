@@ -41,6 +41,12 @@
    [ 虎克网 ]( https://huke88.com/search/video?keyWorld=SAI&identify=1524450810&classification=0?sem=baidu&kw=100273 )    <br/>
    [ 宫崎骏 ]( https://www.bilibili.com/bangumi/play/ss26242 )    <br/>
    [ AI绘图 ]( https://github.com/hua1995116/awesome-ai-painting )    <br/>
+   
+## 其他
+   [ 零度解说 ]( https://www.youtube.com/@lingdujieshuo )    <br/>
+
 
    
+
+
 
