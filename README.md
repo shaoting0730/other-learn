@@ -44,6 +44,7 @@
    
 ## 其他
    [ 零度解说 ]( https://www.youtube.com/@lingdujieshuo )    <br/>
+   [ 其他记一下 ](    https://github.com/pheromone/other-learn/blob/master/other.md )    <br/>
 
 
    
