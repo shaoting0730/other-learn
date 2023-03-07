@@ -42,7 +42,7 @@
    [ 宫崎骏 ]( https://www.bilibili.com/bangumi/play/ss26242 )    <br/>
    [ AI绘图 ]( https://github.com/hua1995116/awesome-ai-painting )    <br/>
    
-## 其他
+##  其他
    [ 零度解说 ]( https://www.youtube.com/@lingdujieshuo )    <br/>
    [ 其他记一下 ](    https://github.com/pheromone/other-learn/blob/master/other.md )    <br/>
 
