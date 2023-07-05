@@ -24,6 +24,7 @@
    [ 【黑马】Python教程_600集Python从入门到精通教程-B站 ]( https://www.bilibili.com/video/av14184325/?spm_id_from=333.788.videocard.0 )    <br/>
    一堆资料 链接: https://pan.baidu.com/s/14lftjlVPK5W8D_feW6Ji4Q 提取码: k9wf 
 ## 算法
+   [ hello-algo  ]( https://github.com/krahets/hello-algo )    <br/>
    [ 刷算法全靠套路，认准 labuladong 就够了！]( https://github.com/labuladong/fucking-algorithm )    <br/>
    [ 算法模板 ]( https://github.com/greyireland/algorithm-pattern )    <br/>
    [ 手写实现李航《统计学习方法》书中全部算法 ]( https://github.com/Dod-o/Statistical-Learning-Method_Code )    <br/>
