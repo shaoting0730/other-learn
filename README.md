@@ -24,18 +24,14 @@
    [ 【黑马】Python教程_600集Python从入门到精通教程-B站 ]( https://www.bilibili.com/video/av14184325/?spm_id_from=333.788.videocard.0 )    <br/>
    一堆资料 链接: https://pan.baidu.com/s/14lftjlVPK5W8D_feW6Ji4Q 提取码: k9wf 
 ## 算法
-   [ hello-algo  ]( https://github.com/krahets/hello-algo )    <br/>
-   [ 刷算法全靠套路，认准 labuladong 就够了！]( https://github.com/labuladong/fucking-algorithm )    <br/>
-   [ 算法模板 ]( https://github.com/greyireland/algorithm-pattern )    <br/>
-   [ 手写实现李航《统计学习方法》书中全部算法 ]( https://github.com/Dod-o/Statistical-Learning-Method_Code )    <br/>
-   [ 数据结构和算法必知必会的50个代码实现 ]( https://github.com/wangzheng0822/algo )    <br/>
+   [ 算法学习历程  ]( https://github.com/pheromone/other-learn/tree/master/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0 )    <br/>
 
 ## rust
    [ rust学习历程 ]( https://github.com/pheromone/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/rust-learn.svg?style=social&label=Stars)](https://github.com/pheromone/rust-learn)     <br/>
    [ tauri ]( https://github.com/tauri-apps/tauri )    <br/>
+   [ Dart Frog ]( https://dartfrog.vgv.dev/ )    <br/>
 
- 
- 
+
 
 ## 漫画学习:爱好
    [ 露西学画画 ]( https://www.lucydraw.com/manhua )    <br/>
