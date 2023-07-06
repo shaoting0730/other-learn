@@ -2,7 +2,7 @@
    [ phthon学习记录 ]( https://github.com/pheromone/phthon_learn )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/phthon_learn.svg?style=social&label=Stars)](https://github.com/pheromone/phthon_learn)  <br/>
    [ XPath 语法 ]( https://www.w3school.com.cn/xpath/xpath_syntax.asp )    <br/>
    [ beautifulsoup4 语法 ]( https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#id7 )    <br/>
-   [ 爬虫入门课程 ]( https://www.bilibili.com/video/av79090497?p=1 )    <br/>
+   [ Python-100-Days ]( https://github.com/jackfrued/Python-100-Days )    <br/>
    [ 关于 Python 的经典入门书籍有哪些？-知乎 ]( https://www.zhihu.com/question/19593179 )    <br/>
    [ 哪里能找到 Python 视频教程地址？-知乎· ]( https://www.zhihu.com/question/19660572 )    <br/>
    [ Python 基础教程-菜鸟教程 ]( https://www.runoob.com/python/python-tutorial.html )    <br/>
