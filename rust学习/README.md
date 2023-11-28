@@ -18,6 +18,7 @@
    [ tauri ]( https://github.com/tauri-apps/tauri )     <br/>
    [ swc ](   https://github.com/swc-project/swc )     <br/>
    [ deno ](  https://github.com/denoland/deno )     <br/>
+   [ egui ]( https://github.com/emilk/egui )     <br/>
 
 
    <br/>
