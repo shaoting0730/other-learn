@@ -1,4 +1,4 @@
-   [ rust学习历程 ]( https://github.com/pheromone/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/rust-learn.svg?style=social&label=Stars)](https://github.com/pheromone/rust-learn)     <br/>
+   [ rust学习历程 ]( https://github.com/shaoting0730/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/rust-learn.svg?style=social&label=Stars)](https://github.com/shaoting0730/rust-learn)     <br/>
    [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
    [ Rust语言圣经 ⭐️⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
    [ Rust入门秘籍(更新中) ⭐️⭐️⭐️⭐️⭐️ ]( https://rust-book.junmajinlong.com/about.html )    <br/>
