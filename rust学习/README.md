@@ -1,7 +1,7 @@
    [ rust学习历程 ]( https://github.com/shaoting0730/rust-learn ) [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/rust-learn.svg?style=social&label=Stars)](https://github.com/shaoting0730/rust-learn)     <br/>
    [ Rust官方网站 ]( https://www.rust-lang.org/zh-CN )    <br/>
-   [ Rust语言圣经 ⭐️⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
-   [ Rust入门秘籍(更新中) ⭐️⭐️⭐️⭐️⭐️ ]( https://rust-book.junmajinlong.com/about.html )    <br/>
+   [ Rust入门秘籍(更新中) ⭐️⭐️⭐️⭐️⭐ ]( https://rust-book.junmajinlong.com/about.html )    <br/>
+   [ Rust语言圣经 ⭐️⭐️⭐️⭐️ ]( https://github.com/sunface/rust-course )    <br/>
    [ 锈书 ]( https://github.com/rustlang-cn/rusty-book )    <br/>
    [ Rust语言周刊 ]( https://github.com/rustlang-cn/rust-weekly )    <br/>
    [ RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译 ]( https://github.com/rustlang-cn/Rustt )    <br/>
