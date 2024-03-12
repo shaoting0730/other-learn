@@ -1,4 +1,5 @@
 ### 下载m3u8视频
+   [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  ) <br/>
    [ openai ]( https://chat.openai.com/) <br/>
    [ yeschat ]( https://www.yeschat.ai/zh-CN/yeschat) <br/>
    [ 浏览器脚本 tampermonkey ]( https://www.tampermonkey.net/ ) <br/>
