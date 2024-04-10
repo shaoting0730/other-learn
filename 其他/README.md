@@ -11,5 +11,5 @@
    [ 百度广告屏蔽 ]( https://chromewebstore.google.com/detail/%E7%99%BE%E5%BA%A6%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%94%BD/bdkobfnbgkbemcfgopfollaikdlknlkm) <br/>
    [ return YouTube Dislike ]( https://chrome.google.com/webstore/detail/gebbhagfogifgggkldgodflihgfeippi ) <br/>
    [ 沙拉查词-聚合词典划词翻译 ]( https://chromewebstore.google.com/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg ) <br/>
-   [ Secure Bookmarks ]( chrome-extension://leocjgngiajhfiikjolfhcpiokgbinep/options.html) <br/>
+   [ Secure Bookmarks ]( chrome-extension://leocjgngiajhfiikjolfhcpiokgbinep/options.html ) <br/>
    [ 稀土掘金 ]( https://chromewebstore.google.com/detail/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb ) <br/>
