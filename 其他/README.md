@@ -7,6 +7,7 @@
    [ 海艺AI ]( https://www.seaart.ai/zhCN ) <br/>
    [ Llama 3 ]( https://www.meta.ai/ ) <br/>
    [ coze AI ]( https://www.coze.com/ )    <br/>
+   [ u-tools工具插件：git日报周报抓取 ]( https://u.tools/ )    <br/>
    [ 油猴腳本集 ]( https://github.com/hoothin/UserScripts )    <br/>
    [ 流媒体下载web ]( https://superparse.com/ ) <br/>
    [ 浏览器脚本 tampermonkey ]( https://www.tampermonkey.net/ ) <br/>
