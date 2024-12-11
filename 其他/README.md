@@ -20,6 +20,7 @@
    [ 沙拉查词-聚合词典划词翻译 ]( https://chromewebstore.google.com/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg ) <br/>
    [ secure Bookmarks ]( https://chromewebstore.google.com/detail/secure-bookmarks/leocjgngiajhfiikjolfhcpiokgbinep ) <br/>
    [ 稀土掘金插件 ]( https://chromewebstore.google.com/detail/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb ) <br/>
+   [ oh-my-zsh 终端美化 ]( https://ohmyz.sh/ ) <br/>
    [ 终端工具 Warp ]( https://www.warp.dev/ ) <br/>
    [ 美国身份生成网站]( https://www.fakepersongenerator.com/Random1/generate_identity ) <br/>
    [ 测试服务器httpbin ]( https://www.httpbin.org/ ) <br/>
