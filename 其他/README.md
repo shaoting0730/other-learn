@@ -1,5 +1,5 @@
 
-   [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
+   [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  ~~~  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
    [ openai ]( https://chat.openai.com/) <br/>
    [ OpenAI 推出超神 ChatGPT 注册攻略来了 ]( https://juejin.cn/post/7173447848292253704 ) <br/>
    [ sms-activate ]( https://sms-activate.org/cn ) <br/>
