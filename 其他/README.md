@@ -1,10 +1,9 @@
 
    [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  ~~~  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
+   [ Claude ai ]( https://claude.ai/ )  ~~~  [ 国内使用 ]( https://zhuanlan.zhihu.com/p/12304733556)    <br/>
    [ openai ]( https://chat.openai.com/) <br/>
    [ OpenAI 推出超神 ChatGPT 注册攻略来了 ]( https://juejin.cn/post/7173447848292253704 ) <br/>
    [ sms-activate ]( https://sms-activate.org/cn ) <br/>
-   [ 阿水AI ]( https://ai.ashuiai.com/home ) <br/>
-   [ 海艺AI ]( https://www.seaart.ai/zhCN ) <br/>
    [ Llama 3 ]( https://www.meta.ai/ ) <br/>
    [ coze AI ]( https://www.coze.com/ )    <br/>
    [ u-tools工具插件 ]( https://u.tools/ )  ---->  [ git日报周报抓取 ]( https://u.tools/plugins/detail/Git%20%E6%97%A5%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8 )     <br/>
@@ -24,3 +23,4 @@
    [ 终端工具 Warp ]( https://www.warp.dev/ ) <br/>
    [ 美国身份生成网站]( https://www.fakepersongenerator.com/Random1/generate_identity ) <br/>
    [ 测试服务器httpbin ]( https://www.httpbin.org/ ) <br/>
+   [ 网图获取 ]( https://picsum.photos/) 如 https://picsum.photos/800/600 <br/>
