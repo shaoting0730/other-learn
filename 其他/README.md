@@ -1,12 +1,12 @@
 
    [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  ~~~  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
-   [ Claude ai ]( https://claude.ai/ )  ~~~  [ 国内使用 ]( https://zhuanlan.zhihu.com/p/12304733556)    <br/>
+   [ Claude ai ]( https://claude.ai/ )  ~~~  [ 国内使用 ]( https://zhuanlan.zhihu.com/p/12304733556) ~~~ [ 其他教程 ]( https://github.com/anyofai/claude-pro )    <br/>
    [ openai ]( https://chat.openai.com/) <br/>
    [ OpenAI 推出超神 ChatGPT 注册攻略来了 ]( https://juejin.cn/post/7173447848292253704 ) <br/>
    [ sms-activate ]( https://sms-activate.org/cn ) <br/>
    [ Llama 3 ]( https://www.meta.ai/ ) <br/>
    [ coze AI ]( https://www.coze.com/ )    <br/>
-   [ u-tools工具插件 ]( https://u.tools/ )  ---->  [ git日报周报抓取 ]( https://u.tools/plugins/detail/Git%20%E6%97%A5%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8 )     <br/>
+   [ u-tools工具插件 ]( https://u.tools/ )  ~~~  [ git日报周报抓取 ]( https://u.tools/plugins/detail/Git%20%E6%97%A5%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8 )     <br/>
    [ 油猴腳本集 ]( https://github.com/hoothin/UserScripts )    <br/>
    [ 流媒体下载web ]( https://superparse.com/ ) <br/>
    [ 浏览器脚本 tampermonkey ]( https://www.tampermonkey.net/ ) <br/>
