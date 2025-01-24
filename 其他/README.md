@@ -24,3 +24,6 @@
    [ 美国身份生成网站]( https://www.fakepersongenerator.com/Random1/generate_identity ) <br/>
    [ 测试服务器httpbin ]( https://www.httpbin.org/ ) <br/>
    [ 网图获取 ]( https://picsum.photos/) 如 https://picsum.photos/800/600 <br/>
+   [ github action：gitartwork ]( https://github.com/jasineri/gitartwork ) <br/>
+   [ github action：snk ]( https://github.com/Platane/snk ) <br/>
+
