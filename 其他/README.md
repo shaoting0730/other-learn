@@ -1,5 +1,6 @@
 
    [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  ~~~  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
+   [ deepseek-ai ]( https://github.com/deepseek-ai ) <br/>
    [ Claude ai ]( https://claude.ai/ )  ~~~  [ 国内使用 ]( https://zhuanlan.zhihu.com/p/12304733556) ~~~ [ 其他教程 ]( https://github.com/anyofai/claude-pro )    <br/>
    [ openai ]( https://chat.openai.com/) <br/>
    [ OpenAI 推出超神 ChatGPT 注册攻略来了 ]( https://juejin.cn/post/7173447848292253704 ) <br/>
