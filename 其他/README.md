@@ -1,6 +1,7 @@
 
    [ DuyaoSS-机场测速和简介 ]( https://www.duyaoss.com/  )  ~~~  [ 一次翻车 ]( https://github.com/i2ii/i/pulls  )   <br/>
    [ 本地部署大模型工具 ollama ]( https://github.com/ollama/ollama ) ~~~ [ Ollama 中文文档 ]( https://ollama.readthedocs.io/quickstart/)   <br/>
+   [ Hugging Face = 开源AI模型库 + 数据集中心 + 协作平台 + 部署工具 ]( https://huggingface.co/ )    <br/>
    [ deepseek-ai ]( https://github.com/deepseek-ai ) <br/>
    [ Claude ai ]( https://claude.ai/ )  ~~~  [ 国内使用 ]( https://zhuanlan.zhihu.com/p/12304733556) ~~~ [ 其他教程 ]( https://github.com/anyofai/claude-pro )    <br/>
    [ openai ]( https://chat.openai.com/) <br/>
