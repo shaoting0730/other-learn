@@ -30,5 +30,5 @@
    [ 网图获取 ]( https://picsum.photos/) 如 https://picsum.photos/800/600 <br/>
    [ github action：gitartwork ]( https://github.com/jasineri/gitartwork ) <br/>
    [ github action：snk ]( https://github.com/Platane/snk ) <br/>
-   [ 特朗普推特搜索： ]( https://www.thetrumparchive.com/)  ~~~ [  比如搜索 when Elon Musk came ]( https://www.thetrumparchive.com/?resultssortOption=%22Latest%22&searchbox=%22when+Elon+Musk+came%22 ) <br/>
+   [ 特朗普推特搜索： ]( https://www.thetrumparchive.com/)  ---- [ 仓库：tta-elastic ]( https://github.com/bpb27/tta-elastic )  ~~~ [  比如搜索 when Elon Musk came ]( https://www.thetrumparchive.com/?resultssortOption=%22Latest%22&searchbox=%22when+Elon+Musk+came%22 )   <br/>
 
