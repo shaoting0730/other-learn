@@ -11,6 +11,7 @@
    [ sms-activate ]( https://sms-activate.org/cn ) <br/>
    [ Llama 3 ]( https://www.meta.ai/ ) <br/>
    [ coze AI ]( https://www.coze.com/ )    <br/>
+   [ mac工具集better365 ]( https://www.better365.cn/ )    <br/>
    [ u-tools工具插件 ]( https://u.tools/ )  ~~~  [ git日报周报抓取 ]( https://u.tools/plugins/detail/Git%20%E6%97%A5%E6%8A%A5%E7%94%9F%E6%88%90%E5%99%A8 )     <br/>
    [ 油猴腳本集 ]( https://github.com/hoothin/UserScripts )    <br/>
    [ 流媒体下载web ]( https://superparse.com/ ) <br/>
