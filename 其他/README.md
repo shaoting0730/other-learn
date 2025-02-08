@@ -26,7 +26,8 @@
    [ secure Bookmarks ]( https://chromewebstore.google.com/detail/secure-bookmarks/leocjgngiajhfiikjolfhcpiokgbinep ) <br/>
    [ 稀土掘金插件 ]( https://chromewebstore.google.com/detail/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb ) <br/>
    [ oh-my-zsh 终端美化 ]( https://ohmyz.sh/ ) <br/>
-   [ 终端工具 Warp：附带AI ]( https://www.warp.dev/ ) <br/>
+   [ 终端工具 Warp - 附带AI ]( https://www.warp.dev/ ) <br/>
+   [ IDE cursor - 附带AI ]( https://www.cursor.com/ ) <br/>
    [ 美国身份生成网站]( https://www.fakepersongenerator.com/Random1/generate_identity ) <br/>
    [ 测试服务器httpbin ]( https://www.httpbin.org/ ) <br/>
    [ 网图获取 ]( https://picsum.photos/) 如 https://picsum.photos/800/600 <br/>
