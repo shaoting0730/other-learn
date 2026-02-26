@@ -97,7 +97,7 @@ K = 1
 | KNN  | 看邻居投票     |
 ---
 # 另: “过拟合  欠拟合” 的异同
-![image](https://github.com/shaoting0730/Flutter_learn_demo/blob/master/%E5%9F%BA%E7%A1%80Widget/button_demo/%20result.png) <br/>
+![image](https://github.com/shaoting0730/other-learn/blob/master/AI%E5%85%A5%E9%97%A8/%E5%85%A5%E9%97%A8%E4%B8%AD/%E2%80%9C%E8%BF%87%E6%8B%9F%E5%90%88%20vs%20%E6%AC%A0%E6%8B%9F%E5%90%88%E2%80%9D%E7%9A%84%E7%9B%B4%E8%A7%82%E5%9B%BE.png) <br/>
 
 你看到两条线：
 
