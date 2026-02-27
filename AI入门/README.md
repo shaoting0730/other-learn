@@ -1,3 +1,4 @@
+# 人工智能（Artificial Intelligence, AI）
 1、[scikit-learn](https://github.com/scikit-learn/scikit-learn)（Python 机器学习库）   <br/>
 掌握常用的Python库，如 [NumPy](https://github.com/numpy/numpy)（数值计算）、 [Pandas](https://github.com/pandas-dev/pandas)（数据分析）、[Matplotlib](https://github.com/matplotlib/matplotlib)（绘图）。 <br/>
 2、python -m pip show scikit-learn # 查看scikit-learn安装的位置及安装的版本 <br/>
