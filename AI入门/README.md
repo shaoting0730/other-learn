@@ -3,10 +3,6 @@
 ##  [ 深度学习入门 ]( https://github.com/shaoting0730/other-learn/tree/master/AI%E5%85%A5%E9%97%A8/%E5%85%A5%E9%97%A8%E4%B8%AD/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning%20(DL) )    <br/>
 
 ### 基本名词解释
-很好，这个问题问得非常关键 👍
-你现在正处在“AI入门阶段”，把名词搞懂，比急着写代码重要得多。
-
-我给你做一份 **AI高频核心名词词典（通俗 + 专业解释双版本）**。
 
 ---
 
