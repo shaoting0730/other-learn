@@ -1,5 +1,30 @@
 # 机器学习 = 让计算机从数据中“学规律”
 ## 给数据 + 给答案 → 让机器自己找规则
+---
+
+基本概念:  <br/>
+**回归**:  <br/>
+“回归”（Regression）这个词来自统计学。在数学和统计学里:用一个函数去拟合数据之间的关系,简单说就是找到一个函数，让输入和输出之间的关系被表达出来。 <br/>
+在机器学习里  <br/>
+> 回归 = 预测一个连续数值,用一个函数去预测连续数值，并刻画变量之间的关系。 <br/>
+
+比如:  <br/>
+预测房价（350万） <br/>
+预测温度（26.3°C） <br/>
+预测股票价格 <br/>
+预测销量（10234件） <br/>
+**拟合**:  <br/>
+> 用数学函数去尽量接近数据的真实规律。 <br/>
+
+简单说：用数学公式去“模仿”数据的规律。<br/>
+拟合不好（欠拟合） <br/>
+拟合过头（过拟合） <br/>
+**泛化能力（Generalization Ability）**:  <br/>
+> 从有限样本中学习到一般规律,如 举一反三 <br/>
+
+过拟合 = 泛化能力差
+
+---
 1、[scikit-learn](https://github.com/scikit-learn/scikit-learn)（Python 机器学习库）   <br/>
 掌握常用的Python库，如 [NumPy](https://github.com/numpy/numpy)（数值计算）、 [Pandas](https://github.com/pandas-dev/pandas)（数据分析）、[Matplotlib](https://github.com/matplotlib/matplotlib)（绘图）。 <br/>
 2、python -m pip show scikit-learn # 查看scikit-learn安装的位置及安装的版本 <br/>
