@@ -3,7 +3,7 @@
 ##  [ 深度学习入门 ]( https://github.com/shaoting0730/other-learn/tree/master/AI%E5%85%A5%E9%97%A8/%E5%85%A5%E9%97%A8%E4%B8%AD/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning%20(DL) )    <br/>
 
 ### 基本名词解释
-
+[ 从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！ ]( https://www.youtube.com/watch?v=7qO8-kx3gW8 ) 
 ---
 
 # 🧠 一、基础概念
