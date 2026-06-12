@@ -12,6 +12,7 @@
 # 🧠 一、基础概念
 
 ---
+[ 吴恩达《AI for everyone》给所有人的AI课（中英字幕） ]( https://www.bilibili.com/list/ml3319440638?oid=790902005&bvid=BV1yC4y127uj&p=2 ) 
 
 ### 1️⃣ 人工智能（AI）
 
