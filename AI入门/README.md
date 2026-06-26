@@ -1,5 +1,5 @@
 
-[ 国家高等教育智慧教育平台 ]( https://higher.smartedu.cn/ai2026 ) 
+[ 国家高等教育智慧教育平台 ]( https://higher.smartedu.cn/ai2026 )  <br/>
 [ 人工智能学习入门-华为 ]( https://www.huaweicloud.com/special/ai.html ) 
 
 
