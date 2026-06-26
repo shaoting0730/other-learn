@@ -1,5 +1,7 @@
 
 [ 国家高等教育智慧教育平台 ]( https://higher.smartedu.cn/ai2026 ) 
+[ 人工智能学习入门-华为 ]( https://www.huaweicloud.com/special/ai.html ) 
+
 
 # 人工智能（Artificial Intelligence, AI）
 ##  [ 机器学习入门 ]( https://github.com/shaoting0730/other-learn/tree/master/AI%E5%85%A5%E9%97%A8/%E5%85%A5%E9%97%A8%E4%B8%AD/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0Machine%20Learning(ML) )    <br/>
