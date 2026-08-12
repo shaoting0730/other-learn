@@ -276,35 +276,69 @@ Artificial Intelligence
 
 
 ```
+
 人工智能 AI
 │
 ├── 机器学习 Machine Learning
 │   │
-│   ├── 监督学习
-│   │   ├── 回归
-│   │   │   └── 线性回归
-│   │   └── 分类
-│   │       ├── 逻辑回归
-│   │       ├── 决策树
+│   ├── 监督学习 Supervised Learning
+│   │   │
+│   │   ├── 回归 Regression
+│   │   │   ├── 线性回归 Linear Regression
+│   │   │   └── 逻辑回归 Logistic Regression
+│   │   │
+│   │   └── 分类 Classification
+│   │       ├── 决策树 Decision Tree
 │   │       ├── KNN
-│   │       └── 支持向量机 SVM
+│   │       ├── SVM
+│   │       └── 朴素贝叶斯 Naive Bayes
 │   │
-│   ├── 无监督学习
-│   │   ├── 聚类
-│   │   └── 降维
+│   ├── 无监督学习 Unsupervised Learning
+│   │   │
+│   │   ├── 聚类 Clustering
+│   │   │   ├── K-Means
+│   │   │   └── DBSCAN
+│   │   │
+│   │   └── 降维 Dimensionality Reduction
+│   │       ├── PCA
+│   │       └── t-SNE
 │   │
-│   └── 深度学习 Deep Learning
-│       ├── 神经网络 Neural Network
-│       │   ├── 前馈网络
-│       │   ├── CNN
-│       │   ├── RNN
-│       │   └── Transformer
+│   └── 强化学习 Reinforcement Learning
 │       │
-│       └── 大模型 LLM
-│           ├── 预训练
-│           └── 微调
+│       ├── Q-Learning
+│       └── Deep Reinforcement Learning
 │
-└── 强化学习 Reinforcement Learning
+├── 深度学习 Deep Learning
+│   │
+│   ├── 神经网络 Neural Network
+│   │
+│   ├── CNN
+│   │   └── 图像识别
+│   │
+│   ├── RNN
+│   │   └── 时间序列/文本
+│   │
+│   ├── Transformer
+│   │   └── 大语言模型基础
+│   │
+│   └── GAN
+│       └── 生成图片
+│
+└── 生成式人工智能 Generative AI
+    │
+    ├── 大语言模型 LLM
+    │   │
+    │   ├── GPT
+    │   ├── Claude
+    │   └── Gemini
+    │
+    ├── 图像生成
+    │   ├── Diffusion Model
+    │   └── Stable Diffusion
+    │
+    ├── 视频生成
+    │
+    └── 音频生成
 
 ```
 
