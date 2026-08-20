@@ -1,6 +1,7 @@
 
 [ 国家高等教育智慧教育平台 ]( https://higher.smartedu.cn/ai2026 )  <br/>
 [ 人工智能学习入门-华为 ]( https://www.huaweicloud.com/special/ai.html )  <br/>
+[ 大模型应用开发学习路径-华为 ]( https://edu.huaweicloud.com/programs/largemodel.html )  <br/>
 [ AI 知识库启航-鱼皮 ]( https://ai.codefather.cn/library/2010974735415316482 )   <br/>
 
 
