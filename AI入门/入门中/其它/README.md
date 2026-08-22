@@ -3,7 +3,7 @@
 [ 一张图读懂 Skills 与 MCP：让你的 AI Agent 同时拥有“大脑”和“双手”]( https://cloud.tencent.com/developer/article/2624372 ) <br/>
 [ Skills 教程 ]( https://www.runoob.com/ai-agent/skills-agent.html ) <br/>
 [ transformers ]( https://github.com/huggingface/transformers ) <br/>
-
+[ transformers: Attention ]( https://mp.weixin.qq.com/s/R_kQvagHN4zTsILy_uPWkg ) <br/>
  <hr/>
  
 [ 必收藏！一篇吃透RAG到底是什么？ ]( https://zhuanlan.zhihu.com/p/2020146942852755666 ) <br/>
