@@ -4,6 +4,7 @@
 [ Skills 教程 ]( https://www.runoob.com/ai-agent/skills-agent.html ) <br/>
 [ transformers ]( https://github.com/huggingface/transformers ) <br/>
 [ transformers: Attention ]( https://mp.weixin.qq.com/s/R_kQvagHN4zTsILy_uPWkg ) <br/>
+[ 从词向量到Transformer: 轩辕的编程宇宙 ]( https://www.youtube.com/watch?v=j-PLWhTJVsc ) <br/>
  <hr/>
  
 [ 必收藏！一篇吃透RAG到底是什么？ ]( https://zhuanlan.zhihu.com/p/2020146942852755666 ) <br/>
