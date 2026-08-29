@@ -1,3 +1,4 @@
+# 咦!!! 这是啥?学一下..... 那是啥??学一下.....这又是啥??? 学一下.....这可能就是AI吧~~~
 
 [ 国家高等教育智慧教育平台 ]( https://higher.smartedu.cn/ai2026 )  <br/>
 [ 人工智能学习入门-华为 ]( https://www.huaweicloud.com/special/ai.html )  <br/>
