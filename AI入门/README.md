@@ -3,6 +3,7 @@
 [ 人工智能学习入门-华为 ]( https://www.huaweicloud.com/special/ai.html )  <br/>
 [ 大模型应用开发学习路径-华为 ]( https://edu.huaweicloud.com/programs/largemodel.html )  <br/>
 [ AI 知识库启航-鱼皮 ]( https://ai.codefather.cn/library/2010974735415316482 )   <br/>
+[ AI Agent 全栈学习课程  ]( https://callous-0923.github.io/agent-study/index.html )   <br/>
 
 
 # 人工智能（Artificial Intelligence, AI）
