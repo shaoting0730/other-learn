@@ -15,5 +15,5 @@
 [ LangChain 与 LlamaIndex：主要区别 ]( https://www.ibm.com/cn-zh/think/topics/llamaindex-vs-langchain ) <br/>
 
  <hr/>
-[ 2026年10大Agent框架深度横评 | AI Agent Framework选型指南 - YouTube:TGLTommy ]( https://www.youtube.com/watch?v=ugVQtByRqA0 ) <br/>
+[ 2026年10大Agent框架深度横评-YouTube:TGLTommy ]( https://www.youtube.com/watch?v=ugVQtByRqA0 ) <br/>
 
